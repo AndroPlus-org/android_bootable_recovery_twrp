@@ -881,12 +881,12 @@ void DataManager::SetDefaultValues()
 	mConstValues.insert(make_pair("tw_has_mtp", "0"));
 	mConstValues.insert(make_pair("tw_mtp_enabled", "0"));
 #endif
-	mValues.insert(make_pair("tw_mount_system_ro", make_pair("2", 1)));
+	mValues.insert(make_pair("tw_mount_system_ro", make_pair("1", 1)));
 	mValues.insert(make_pair("tw_never_show_system_ro_page", make_pair("0", 1)));
 
     //en || zh-CN for languages
-    mValues.insert(make_pair("tw_lang_name", make_pair("zh-CN", 1)));
-    mValues.insert(make_pair("tw_lang_guisel",make_pair("zh-CN",1)));//for listbox
+    mValues.insert(make_pair("tw_lang_name", make_pair("ja-JP", 1)));
+    mValues.insert(make_pair("tw_lang_guisel",make_pair("ja-JP",1)));//for listbox
 
 
 

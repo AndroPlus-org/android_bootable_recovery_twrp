@@ -296,8 +296,10 @@
 <text id="zip_complete">Zip Install Complete</text>
 <text id="sel_timezone">Select Time Zone:</text>
 <text id="set_lang_en">Set lang to En</text>
+<text id="set_lang_ja">Set lang to ja-JP</text>
 <text id="set_lang_zh">Set lang to zh-CN</text>
 <text id="set_lang_en">Set lang to En</text>
+<text id="set_lang_ja">Set lang to ja-JP</text>
 <text id="set_lang_zh">Set lang to zh-CN</text>
 <text id="true_tdb">TrueDualboot</text>
 <text id="main_active_system">active system 0/1</text>

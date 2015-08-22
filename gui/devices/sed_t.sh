@@ -39,6 +39,7 @@ sed -i "s/^[ \t]*<\/pages>/\n\t\t<page name=\"language_reload\">\n\
 \n\
 				<data name=\"tw_lang_guisel\" \/>\n\
 				<listitem id=\"lang_en\" name=\"English\">en<\/listitem>\n\
+				<listitem id=\"lang_ja-JP\" name=\"Japanese\">ja-JP<\/listitem>\n\
 				<listitem id=\"lang_zh-CN\" name=\"Chinese\">zh-CN<\/listitem>\n\
 			<\/object>\n\
 \n\
