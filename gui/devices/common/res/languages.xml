@@ -422,31 +422,31 @@
 	<string id="language_select">Select Language</string>
 	<string id="lang_set">Set Language</string>
 	<string id="language_current">Current Language: %tw_lang_name%</string>
-	<string id="text_confirm">tw_slider_text=Swipe to Confirm</string>
-	<string id="text_reboot">tw_slider_text=Swipe to Reboot</string>
-	<string id="text_wipe">tw_slider_text=Swipe to Wipe</string>
-	<string id="text_format">tw_slider_text=Swipe to Format</string>
-	<string id="text_wipe_cache_dalvik">tw_text1=Wipe Cache & Dalvik?</string>
-	<string id="text_action_wipe_cache_dalvik">tw_action_text1=Wiping Cache & Dalvik...</string>
-	<string id="text_complete_wipe_cache_dalvik">tw_complete_text1=Cache & Dalvik Wipe Complete</string>
-	<string id="text1_warning_no_os">tw_text1=No OS Installed! Are you</string>
-	<string id="text2_warning_no_os_reboot">tw_text2=sure you wish to reboot?</string>
-	<string id="text_action_reboot">tw_action_text1=Rebooting...</string>
-	<string id="text_complete_reboot">tw_complete_text1=Rebooting...</string>
-	<string id="text2_warning_no_os_poweroff">tw_text2=sure you wish to power off?</string>
-	<string id="text_action_poweroff">tw_action_text1=Turning Off...</string>
-	<string id="text_complete_poweroff">tw_complete_text1=Turning Off...</string>
-	<string id="text_poweroff">tw_slider_text=Swipe to Power Off</string>
-	<string id="text_wipe_cache">tw_text1=Wipe Cache?</string>
-	<string id="text_action_wipe_cache">tw_action_text1=Wiping Cache...</string>
-	<string id="text_complete_wipe_cache">tw_complete_text1=Cache Wipe Complete</string>
-	<string id="text_wipe_dalvik_cache">tw_text1=Wipe Dalvik-Cache?</string>
-	<string id="text_action_wipe_dalvik_cache">tw_action_text1=Wiping Dalvik-Cache...</string>
-	<string id="text_complete_wipe_dalvik_cache">tw_complete_text1=Dalvik-Cache Wipe Complete</string>
-	<string id="text1_factory_reset">tw_text1=Factory Reset?</string>
-	<string id="text2_factory_reset">tw_text2=(Wipes Data and Cache)</string>
-	<string id="text_action_factory_reset">tw_action_text1=Factory Reset...</string>
-	<string id="text_complete_factory_reset">tw_complete_text1=Factory Reset Complete</string>
+	<string id="text_confirm">tw_slider_text=スワイプで確認</string>
+	<string id="text_reboot">tw_slider_text=スワイプで再起動</string>
+	<string id="text_wipe">tw_slider_text=スワイプで消去</string>
+	<string id="text_format">tw_slider_text=スワイプでフォーマット</string>
+	<string id="text_wipe_cache_dalvik">tw_text1=Cache と Dalvik を消去しますか?</string>
+	<string id="text_action_wipe_cache_dalvik">tw_action_text1=Cache と Dalvik の消去中...</string>
+	<string id="text_complete_wipe_cache_dalvik">tw_complete_text1=Cache と Dalvik を消去しました</string>
+	<string id="text1_warning_no_os">tw_text1=OSが見つかりません!</string>
+	<string id="text2_warning_no_os_reboot">tw_text2=本当に再起動しますか?</string>
+	<string id="text_action_reboot">tw_action_text1=再起動中...</string>
+	<string id="text_complete_reboot">tw_complete_text1=再起動中...</string>
+	<string id="text2_warning_no_os_poweroff">tw_text2=本当に電源を切りますか?</string>
+	<string id="text_action_poweroff">tw_action_text1=電源オフ中...</string>
+	<string id="text_complete_poweroff">tw_complete_text1=電源オフ中...</string>
+	<string id="text_poweroff">tw_slider_text=スワイプで電源を切る</string>
+	<string id="text_wipe_cache">tw_text1=Cache を消去しますか?</string>
+	<string id="text_action_wipe_cache">tw_action_text1=Cache の消去中...</string>
+	<string id="text_complete_wipe_cache">tw_complete_text1=Cache を消去しました</string>
+	<string id="text_wipe_dalvik_cache">tw_text1=Dalvik-Cache を消去しますか?</string>
+	<string id="text_action_wipe_dalvik_cache">tw_action_text1=Dalvik-Cache の消去中...</string>
+	<string id="text_complete_wipe_dalvik_cache">tw_complete_text1=Dalvik-Cache を消去しました</string>
+	<string id="text1_factory_reset">tw_text1=工場出荷状態に戻しますか?</string>
+	<string id="text2_factory_reset">tw_text2=(Data と Cache を消去します)</string>
+	<string id="text_action_factory_reset">tw_action_text1=工場出荷状態に戻します...</string>
+	<string id="text_complete_factory_reset">tw_complete_text1=工場出荷状態に戻しました</string>
 	<string id="text1_wipe_system">tw_text1=Wipe System?</string>
 	<string id="text2_wipe_system">tw_text2=This will wipe your ROM</string>
 	<string id="text_action_wipe_system">tw_action_text1=Wiping System...</string>
@@ -518,23 +518,23 @@
         <string id="text_copylogcomplete">tw_complete_text1=Log Copy Complete</string>
 	<string id="set_lang_en">Set lang to En</string>
 	<string id="set_lang_zh">Set lang to zh-CN</string>
-	<string id="set_lang_ja">Set lang to ja-JP</string>
+	<string id="set_lang_ja">日本語に設定</string>
 	<string id="true_tdb">TrueDualBoot</string>
 	<string id="main_active_system">active system 0/1</string>
         <string id="current_system">Current System: %tw_active_system%</string>
 	<string id="ac_system0">active system0.</string>
 	<string id="ac_system1">active system1.</string>
-        <string id="screen">Brightness & Timeout</string>
-        <string id="screen_set">Screen Settings</string>
-        <string id="e_screen_timeout">Enable screen timeout.</string>
-        <string id="screen_timout_sec">Screen timeout in seconds:</string>
-        <string id="brightness">Brightness: %tw_brightness_pct%%</string>
-        <string id="u_military_time">Use Military Time.</string>
-        <string id="vibra_menu">Vibration Duration</string>
-        <string id="vibrat_set">Vibration Settings :</string>
-        <string id="button_vibrat">Button Vibration:</string>
-        <string id="keyboard_vibrat">Keyboard Vibration:</string>
-        <string id="action_vibrat">Action Vibration:</string>
+        <string id="screen">明るさと消灯時間</string>
+        <string id="screen_set">画面設定</string>
+        <string id="e_screen_timeout">無操作時に画面を消灯する</string>
+        <string id="screen_timout_sec">消灯までの時間 (秒) :</string>
+        <string id="brightness">明るさ: %tw_brightness_pct%%</string>
+        <string id="u_military_time">24時間表示にする</string>
+        <string id="vibra_menu">バイブの間隔</string>
+        <string id="vibrat_set">バイブ設定 :</string>
+        <string id="button_vibrat">ボタンのバイブ:</string>
+        <string id="keyboard_vibrat">キーボードのバイブ:</string>
+        <string id="action_vibrat">アクションのバイブ:</string>
         <string id="wipe_all">Wipes Data, Cache, and Dalvik</string>
         <string id="most_of_time">Most of the time this is</string>
         <strind id="only_wipe">the only wipe that you need.</string>
@@ -578,18 +578,18 @@
 	<string id="backup_android_secure">.android_secure (%tw_backup_andsec_size% MB)</string>
 	<string id="filemanageroptions_selected">%tw_fm_type% Selected:</string>
 	<string id="time">%tw_time%</string>
-	<string id="backup_name_exists">A backup with that name already exists!</string>
+	<string id="backup_name_exists">バックアップ名が重複しています!</string>
 	<string id="sideload">ADB Sideload</string>
-	<string id="add_zip">Add More Zips</string>
-	<string id="advanced">Advanced</string>
+	<string id="add_zip">Zip の追加</string>
+	<string id="advanced">高度な機能</string>
 	<string id="wipe_android_secure">Android Secure</string>
-	<string id="back">Back</string>
-	<string id="backup_device">Back Up Device</string>
-	<string id="backup">Backup</string>
-	<string id="backup_device">Backup Device</string>
-	<string id="backup_name">Backup Name: %tw_backup_name%</string>
-	<string id="battery_long">Battery Level: %tw_battery%</string>
-	<string id="battery">Battery: %tw_battery%</string>
+	<string id="back">戻る</string>
+	<string id="backup_device">バックアップする</string>
+	<string id="backup">バックアップ</string>
+	<string id="backup_device">バックアップする</string>
+	<string id="backup_name">バックアップ名: %tw_backup_name%</string>
+	<string id="battery_long">バッテリー残量: %tw_battery%</string>
+	<string id="battery">バッテリー: %tw_battery%</string>
 	<string id="usb_mounted_text1">Be sure to safely remove your device</string>
 	<string id="restore_boot">Boot</string>
 	<string id="backup_boot">Boot (%tw_backup_boot_size% MB)</string>
@@ -599,56 +599,56 @@
 	<string id="restore_cache">Cache</string>
 	<string id="wipe_cache">Cache</string>
 	<string id="backup_cache">Cache (%tw_backup_cache_size% MB)</string>
-	<string id="cancel">Cancel</string>
-	<string id="cancel_clear">Cancel / Clear</string>
+	<string id="cancel">キャンセル</string>
+	<string id="cancel_clear">キャンセル / 消去</string>
 	<string id="filemanageroptions_chmod">chmod</string>
 	<string id="filemanageroptions_chmod_755">chmod 755</string>
-	<string id="clear_zip">Clear Queue</string>
-	<string id="clear_zip">Clear Zip Queue</string>
-	<string id="filemanageroptions_copy_file">Copy File</string>
-	<string id="filemanageroptions_copy_folder">Copy Folder</string>
-	<string id="advanced_copy_log">Copy Log to SD</string>
-	<string id="timezone_current">Current Time Zone: %tw_time_zone%</string>
+	<string id="clear_zip">キューの消去</string>
+	<string id="clear_zip">Zip キューの消去</string>
+	<string id="filemanageroptions_copy_file">ファイルのコピー</string>
+	<string id="filemanageroptions_copy_folder">フォルダのコピー</string>
+	<string id="advanced_copy_log">SD にログをコピー</string>
+	<string id="timezone_current">現在のタイムゾーン: %tw_time_zone%</string>
 	<string id="wipe_dalvik_cache">Dalvik Cache</string>
 	<string id="restore_data">Data</string>
 	<string id="backup_data">Data (%tw_backup_data_size% MB)</string>
-	<string id="date">Date</string>
-	<string id="decrypt">Decrypt Data</string>
-	<string id="filemanageroptions_delete">Delete</string>
-	<string id="restore_delete">Delete Backup</string>
-	<string id="timezone_dst">Do you use daylight savings time (DST)?</string>
+	<string id="date">日付</string>
+	<string id="decrypt">データの復号</string>
+	<string id="filemanageroptions_delete">削除</string>
+	<string id="restore_delete">バックアップの削除</string>
+	<string id="timezone_dst">夏時間 (DST) を使いますか?</string>
 	<string id="reboot_download">Download</string>
-	<string id="backup_enable_compression">Enable Compression (Requires more time)</string>
-	<string id="backup_enable_compression">Enable compression.</string>
-	<string id="restore_enable_md5">Enable MD5 checking of backup files</string>
-	<string id="restore_enable_md5">Enable MD5 verification of backup files.</string>
-	<string id="partsdcard_ext_size">EXT Size: %tw_sdext_size%</string>
-	<string id="wipe_external">External Storage</string>
-	<string id="factory_reset">Factory Reset</string>
-	<string id="failed">Failed</string>
-	<string id="zip_queue">File %tw_zip_queue_count% of max of 10</string>
-	<string id="advanced_file_manager">File Manager</string>
+	<string id="backup_enable_compression">圧縮する 時間がかかります)</string>
+	<string id="backup_enable_compression">圧縮する</string>
+	<string id="restore_enable_md5">バックアップの MD5 チェックをする</string>
+	<string id="restore_enable_md5">バックアップの MD5 チェックをする</string>
+	<string id="partsdcard_ext_size">EXT サイズ: %tw_sdext_size%</string>
+	<string id="wipe_external">外部ストレージ</string>
+	<string id="factory_reset">工場出荷状態に戻す</string>
+	<string id="failed">失敗</string>
+	<string id="zip_queue">ファイル %tw_zip_queue_count% / 最大 10</string>
+	<string id="advanced_file_manager">ファイルマネージャ</string>
 	<string id="filemanagerlist">File Manager: Select a File or Folder</string>
 	<string id="partsdcard_file_system">File system: %tw_sdpart_file_system%</string>
-	<string id="file2flash">File to flash:</string>
-	<string id="advanced_fix_permissions">Fix Permissions</string>
+	<string id="file2flash">インストールするファイル:</string>
+	<string id="advanced_fix_permissions">パーミッションの修正</string>
 	<string id="flash_queue">Flashing file %tw_zip_index% of %tw_zip_queue_count%</string>
-	<string id="folder">Folder:</string>
-	<string id="folder">Folders:</string>
+	<string id="folder">フォルダ:</string>
+	<string id="folder">フォルダ:</string>
 	<string id="md5_check">Force MD5 check on all zips?</string>
 	<string id="md5_check">Force MD5 check on all zips.</string>
 	<string id="wipe_data">Format Data</string>
 	<string id="backup_free_space">Free Space: %tw_storage_free_size% MB</string>
 	<string id="usb_mounted_text2">from your computer before unmounting!</string>
-	<string id="home">Home</string>
+	<string id="home">ホーム</string>
 	<string id="htcdumlock">HTC Dumlock</string>
 	<string id="backup_ignore_size">Ignore image size errors during backup.</string>
 	<string id="inject_twrp">Inject TWRP after install.</string>
-	<string id="install">Install</string>
+	<string id="install">インストール</string>
 	<string id="htcdumlock_install">Install HTC Dumlock</string>
 	<string id="wipe_internal">Internal Storage</string>
 	<string id="terminalcommand_kill">KILL</string>
-	<string id="mount">Mount</string>
+	<string id="mount">マウント</string>
 	<string id="mount_boot">Mount Boot</string>
 	<string id="mount_cache">Mount Cache</string>
 	<string id="mount_data">Mount Data</string>
@@ -659,34 +659,34 @@
 	<string id="mount_system">Mount System</string>
 	<string id="mount_usb">Mount USB Storage</string>
 	<string id="filemanageroptions_move">Move</string>
-	<string id="name">Name</string>
+	<string id="name">名前</string>
 	<string id="timezone_none">None</string>
 	<string id="timezone_offset">Offset (usually 0): %tw_time_zone_guioffset%</string>
 	<string id="restore_package_date">Package Date: %tw_restore_file_date%</string>
 	<string id="restore_ing">Package to Restore: %tw_restore_name%</string>
-	<string id="partsdcard">Partition SD Card</string>
+	<string id="partsdcard">SD カードのパーティション分け</string>
 	<string id="decrypt_password_failed">Password Failed, Please Try Again</string>
 	<string id="backup_enter_name">Please Enter a Backup Name</string>
 	<string id="enter_name">Please Enter a New %tw_fm_type% Name</string>
 	<string id="restore_enter_name">Please Enter a New Backup Name</string>
 	<string id="filemanagerchmod_enter_permissions">Please Enter New Permissions</string>
 	<string id="decrypt_enter_password">Please Enter Your Password</string>
-	<string id="reboot_poweroff">Power Off</string>
+	<string id="reboot_poweroff">電源を切る</string>
 	<string id="back2cancel">Press back button to cancel.</string>
         <string id="back2cancel_zip">Press back to cancel adding this zip.</string>
 	<string id="advanced_reinject_twrp">Re-Inject TWRP</string>
-	<string id="reboot">Reboot</string>
-	<string id="reboot_menu">Reboot Menu</string>
-	<string id="reboot_system">Reboot System</string>
-	<string id="reboot_recovery">Recovery</string>
-	<string id="backup_recovery">Recovery (%tw_backup_recovery_size% MB)</string>
+	<string id="reboot">再起動</string>
+	<string id="reboot_menu">再起動メニュー</string>
+	<string id="reboot_system">システムへ再起動</string>
+	<string id="reboot_recovery">リカバリ</string>
+	<string id="backup_recovery">リカバリ (%tw_backup_recovery_size% MB)</string>
 	<string id="htcdumlock_reflash_recovery">Reflash Recovery</string>
 	<string id="refresh_size">Refresh Sizes</string>
 	<string id="advanced_reload_theme">Theme & Languages</string>
 	<string id="restore_rename">Rename Backup</string>
 	<string id="filemanageroptions_rename_file">Rename File</string>
 	<string id="filemanageroptions_rename_folder">Rename Folder</string>
-	<string id="restore">Restore</string>
+	<string id="restore">リストア</string>
 	<string id="restore_default">Restore Defaults</string>
 	<string id="htcdumlock_orig_boot">Restore Original Boot</string>
 	<string id="restore_ing">Restoring: %tw_restore_name%</string>
@@ -719,19 +719,19 @@
         <string id="use_24hour_clock">Use 24-hour clock.</string>
 	<string id="set_backup_name">Set Backup Name</string>
 	<string id="timezone_set">Set Time Zone</string>
-	<string id="settings">Settings</string>
+	<string id="settings">設定</string>
 	<string id="simulate_for_theme">Simulate actions for theme testing.</string>
 	<string id="simulate_failure_actions">Simulate failure for actions.</string>
 	<string id="simulate_for_theme">Simulate most actions for theme testing</string>
 	<string id="simulating">SIMULATING ACTIONS</string>
-	<string id="size">Size</string>
+	<string id="size">サイズ</string>
 	<string id="backup_skip_md5">Skip MD5 generation during backup.</string>
 	<string id="backup_skip_md5">Skip MD5 generation on backups</string>
 	<string id="flash_confirm_text2">software and render your device unusable.</string>
 	<string id="sort_asc">Sort Ascending:</string>
 	<string id="sort_desc">Sort Descending:</string>
 	<string id="terminalcommand_path">Starting Path: %tw_terminal_location%</string>
-	<string id="successful">Successful</string>
+	<string id="successful">成功</string>
 	<string id="partsdcard_swap_size">Swap Size: %tw_swap_size%</string>
 	<string id="swipe2backup">Swipe to Back Up</string>
 	<string id="swipe2confirm">Swipe to Confirm</string>
@@ -740,8 +740,8 @@
 	<string id="partsdcard_swipe">Swipe to Partition</string>
 	<string id="swipe2restore">Swipe to Restore</string>
 	<string id="swipe2sideload">Swipe to Start Sideload</string>
-	<string id="lock_swipe">Swipe to Unlock</string>
-        <string id="reboot_menu_system">System</string>
+	<string id="lock_swipe">スワイプでロック解除</string>
+        <string id="reboot_menu_system">システム</string>
 	<string id="backup_system">System (%tw_backup_system_size% MB)</string>
 	<string id="head">Team Win Recovery Project  v%tw_version%</string>
 	<string id="head_long">Team Win Recovery Project (twrp)  v%tw_version%</string>
@@ -749,7 +749,7 @@
 	<string id="advanced_terminal_command">Terminal Command</string>
 	<string id="partsdcard_text2">This action cannot be undone!</string>
 	<string id="flash_confirm_text1">This operation may install incompatible</string>
-	<string id="time_zone">Time Zone</string>
+	<string id="time_zone">タイムゾーン</string>
 	<string id="trydecrypt">Trying Decryption with Your Password</string>
 	<string id="usb_unmount">Unmount</string>
 	<string id="unmount_boot">Unmount Boot</string>
@@ -768,7 +768,7 @@
 	<string id="use_external">Using external SD</string>
 	<string id="use_internal">Using internal storage</string>
 	<string id="flash_confirm_text">WARNING: This operation may install incompatible software and render your device unusable.</string>
-	<string id="wipe">Wipe</string>
+	<string id="wipe">消去</string>
 	<string id="wipe_cache">Wipe Cache.</string>
 	<string id="wipe_cache_dalvik">Wipe cache/dalvik</string>
 	<string id="wipe_cache_dalvik">Wipe cache/dalvik</string>
@@ -796,7 +796,7 @@
 	<string id="KeepRO">Keep Read Only</string>
 	<string id="Swip2AllowModi">Swipe to Allow Modifications</string>
 	<string id="ok">OK</string>
-	<string id="SelStorage">Select Storage:</string>
+	<string id="SelStorage">ストレージの選択:</string>
 	<string id="PasswdNotMatch">Passwords Do Not Match</string>
 	<string id="EncBackup">Encrypt your backup?</string>
 	<string id="EnterPasswdAgain">Please Enter Password Again:</string>
