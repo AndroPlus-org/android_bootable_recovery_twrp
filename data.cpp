@@ -885,8 +885,8 @@ void DataManager::SetDefaultValues()
 	mValues.insert(make_pair("tw_never_show_system_ro_page", make_pair("0", 1)));
 
     //en || ja-JP || zh-CN for languages
-    mValues.insert(make_pair("tw_lang_name", make_pair("ja-JP", 1)));
-    mValues.insert(make_pair("tw_lang_guisel",make_pair("ja-JP",1)));//for listbox
+    mValues.insert(make_pair("tw_lang_name", make_pair("en", 1)));
+    mValues.insert(make_pair("tw_lang_guisel",make_pair("en",1)));//for listbox
 
 
 
